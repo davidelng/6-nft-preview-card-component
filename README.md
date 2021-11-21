@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/davidelng/5-faq-accordion-card)
-- [Live Site URL](https://davidelng.github.io/5-faq-accordion-card/)
+- [Solution URL](https://github.com/davidelng/6-nft-preview-card-component)
+- [Live Site URL](https://davidelng.github.io/6-nft-preview-card-component/)
 
 ## My process
 
